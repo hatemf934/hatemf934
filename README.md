@@ -9,9 +9,9 @@
 Hi, I'm Hatem Fathy, Mobile App Developer 🚀 from Egypt.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. ,
 - 💬 Ask me about my experience with flutter and dart , or anything related to mobile development.
-- 📫 You can reach me on : hatemf934@gmail.com
+- 💼 Open to freelance projects and collaborations on exciting ventures.
 - ⚡ Fun fact: I love Football and Watching Movies
-- ⚡ DM me for freelance Work.
+- 📫 You can reach me on : hatemf934@gmail.com
 
 ### 💎 Fav Quotes: 
 - "Think twice, code once". 
