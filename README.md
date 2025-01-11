@@ -12,7 +12,7 @@ Hi, I'm Hatem Fathy, Mobile App Developer 🚀 from Egypt.
 - 💼 Open to freelance projects and collaborations on exciting ventures.
 - ⚡ Fun fact: I love Football 
 - 📫 You can reach me on : hatemf934@gmail.com
-- 👨‍💻 Check out my portfolio at https://hatemf934.github.io/hatem-protfolio/
+- 👨‍💻 Check out my portfolio at https://hatemf934.github.io/hatem-portfolio/
 
 ### 💎 Fav Quotes: 
 - "Think twice, code once". 
