@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/hatemf934@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:hatemf934@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/HatemFathy-30302f?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100015178184191)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharwatsamy&label=Profile%20views&color=0e75b6&style=flat" alt="tharwatsamy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hatemf934&label=Profile%20views&color=0e75b6&style=flat" alt="hatemf934" /> </p>
 
 Hi, I'm Hatem Fathy, Mobile App Developer 🚀 from Egypt.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. ,
