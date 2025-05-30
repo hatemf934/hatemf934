@@ -1,6 +1,6 @@
  ### Hi there 👋🏻 I'm Hatem Fathy
 
-[![Linkedin Badge](https://img.shields.io/badge/HatemFathy-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatem-fathy-/)
+[![Linkedin Badge](https://img.shields.io/badge/HatemFathy-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatem-fathy-92002a369/)
 [![Gmail Badge](https://img.shields.io/badge/hatemf934@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:hatemf934@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/HatemFathy-30302f?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100015178184191)
 
