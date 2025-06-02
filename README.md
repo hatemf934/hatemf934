@@ -28,12 +28,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 💎 Favorite Quotes
-
-> "Think twice, code once"  
-> "Life is about Solving Problems"
-
 ## 📈 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=hatemf934&label=Profile+Views&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/hatemf934?label=Followers&style=social)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hatemf934&theme=dark)](https://git.io/streak-stats)
 
