@@ -28,15 +28,22 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+<div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=hatemf934&label=Profile+Views&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/hatemf934?label=Followers&style=social)
+![Followers](https://img.shields.io/github/followers/hatemf934?label=Followers&style=flat-square)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hatemf934&theme=dark)](https://git.io/streak-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hatemf934&theme=darkhub&row=2&column=4&margin-w=20&margin-h=20&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatemf934&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hatemf934&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
-[![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatemf934&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatemf934&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatemf934&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## 🎯 Let's Build Something Amazing Together!
 
